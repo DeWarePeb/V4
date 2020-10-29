@@ -1,6 +1,6 @@
 {
-    "name": "V4",
-    "version": "1.0.0",
+    "name": "atfbot",
+    "version": "0.2",
     "description": "",
     "main": "./src/index.js",
     "scripts": {
@@ -11,7 +11,7 @@
         "url": "git+https://github.com/DeWarePeb/V4.git"
     },
     "keywords": [],
-    "author": "",
+    "author": "peb",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/DeWarePeb/V4/issues"
