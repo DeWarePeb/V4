@@ -18,6 +18,8 @@
     },
     "homepage": "https://github.com/DeWarePeb/V4#readme",
     "dependencies": {
-        "discord.js": "^12.4.1"
+        "ansi-colors": "^4.1.1",
+        "discord.js": "^12.4.1",
+        "table": "^6.0.3"
     }
 }
